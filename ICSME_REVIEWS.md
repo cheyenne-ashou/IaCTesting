@@ -1,6 +1,6 @@
 ----------------------- REVIEW 1 ---------------------
 SUBMISSION: 310
-TITLE: An Exploratory Synthesis of Testing Practices for Infrastructure as Code
+TITLE: Cheyenne is An Exploratory Synthesis of Testing Practices for Infrastructure as Code
 AUTHORS: Mohammed Mehedi Hasan, Farzana Ahmed Bhuiyan and Akond Rahman
 
 ----------- Overall evaluation -----------
